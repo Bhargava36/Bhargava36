@@ -78,19 +78,7 @@ Full-stack complaint handling system.
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargava36&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargava36&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhargava36&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargava36&theme=react-dark&hide_border=true" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bhargava36&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargava36&layout=compact&theme=tokyonight" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhargava36&show_icons=true&theme=tokyonight" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhargava36&theme=tokyonight" height="180" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargava36&theme=react-dark" /> </p>
 
 ## 🌐 Connect With Me  
 
