@@ -84,14 +84,13 @@ Full-stack complaint handling system.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhargava36&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhargava36&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargava36&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargava36&theme=react-dark&hide_border=true" />
 </p>
----
+
 
 ## 🌐 Connect With Me  
 
