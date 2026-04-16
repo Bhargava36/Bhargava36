@@ -3,31 +3,21 @@
 
 I'm a full-stack engineer with hands-on experience building **production-grade applications, scalable architectures, and clean UI/UX systems**.
 
- - Full Stack Developer<br>- Completed UI/UX design learning<br>- Currently focused on Power BI tools<br>- Exploring Android Application Development<br>- Learning and working with AI technologies<br>- Passionate about building innovative digital solutions<br><br>## Fun Fact<br>- I enjoy turning ideas into real-world apps and love exploring how AI can make everyday technology smarter.<br><br>## Skills<br>- Full Stack Development<br>- UI/UX Design<br>- Power BI<br>- Android Development<br>- AI & Emerging Technologies<br><br>## Contact<br>- Email: bahrgavanaidujaddu@fmail.com<br>- LinkedIn: https://www.linkedin.com/in/bhargava-naidu-jaddu-b60a6b214/
+ - Full Stack Developer<br>- Completed UI/UX design learning<br>- Currently focused on Power BI tools<br>- Exploring Android Application Development<br>- Learning and working with AI technologies<br>- Passionate about building innovative digital solutions<br><br>## Fun Fact<br>- I enjoy turning ideas into real-world apps and love exploring how AI can make everyday technology smarter.
+<!-- <br><br>## Skills<br>- Full Stack Development<br>- UI/UX Design<br>- Power BI<br>- Android Development<br>- AI & Emerging Technologies<br><br>## Contact<br>- Email: bahrgavanaidujaddu@fmail.com<br>- LinkedIn: https://www.linkedin.com/in/bhargava-naidu-jaddu-b60a6b214/ -->
 
 
-💼 Previously worked at:  
+Previously worked at:  
 - **Tech Mahindra — Software Engineer**  
 - **Zemoso Technologies — SDE Intern**
 
-🎓 Currently:  
-- Pursuing **M.Tech in Computer Science**  
-- Doing freelancing & building client products at **WebFusionWorld**  
-- Working on my future startup **MR LogicLabs**
 
-🔧 I’m passionate about:  
-- Full-stack product development  
-- System design & backend architecture  
-- UI/UX engineering  
-- Databases & optimization  
-- Teaching & mentoring developers  
-
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhargav.jaddu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargava-naidu-jaddu-b60a6b214/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bhargav__Arjun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhargavanaidujaddu@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
+# GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Bhargava36&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="50%">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhargava36&show_icons=true&theme=dark"  width="50%"/>
@@ -61,34 +51,34 @@ I'm a full-stack engineer with hands-on experience building **production-grade a
 
 
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
-### 🎓 **SAC LMS Platform**  
+### **SAC LMS Platform**  
 A complete learning management system with exams, leaderboards, faculty tools.  
 🔗 **Live:** https://lms.aitamsac.in/
 
 ---
 
-### 🌀 **WebFusionWorld — Digital Agency Site**  
+### **WebFusionWorld — Digital Agency Site**  
 Clean UI/UX, animations, responsive pages.  
 🔗 **Live:** https://webfusionworld.com/
 
 ---
 
-### 💼 **Avishkaar Corporate Website**  
+### **Avishkaar Corporate Website**  
 Modern, professional branding + UI.  
 🔗 **Live:** https://avishkaar.co/
 
 ---
 
-### 🧾 **Grievance Management System**  
+### **Grievance Management System**  
 Full-stack complaint handling system.  
 🔗 **Code:** https://github.com/Meghana00/Grievance-aitam  
 
 ---
 
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhargava-naidu-jaddu-b60a6b214/">
@@ -104,7 +94,7 @@ Full-stack complaint handling system.
 
 ---
 
-## 🎯 Current Focus  
+## Current Focus  
 - Building **MR LogicLabs**  
 - Scaling **WebFusionWorld** projects  
 - Mastering system design & backend architecture  
