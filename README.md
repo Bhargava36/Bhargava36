@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#6aa8ff;">Bhargava Naidu Jaddu</span></h1>
-<h3 align="center">Full-Stack Engineer • M.Tech CS • Ex–Tech Mahindra & Zemoso</h3>
+<h3 align="center">Full-Stack Engineer • M.Tech CS •<br>• Ex–Tech Mahindra & Zemoso</h3>
 
 I'm a full-stack engineer with hands-on experience building **production-grade applications, scalable architectures, and clean UI/UX systems**.
 
