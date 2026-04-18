@@ -1,9 +1,36 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#6aa8ff;">Bhargava Naidu Jaddu</span></h1>
-<h3 align="center">Full-Stack Engineer • M.Tech CS •<br>• Ex–Tech Mahindra & Zemoso</h3>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#3333ff;">Bhargava Naidu Jaddu</span>
+</h1>
 
-I'm a full-stack engineer with hands-on experience building **production-grade applications, scalable architectures, and clean UI/UX systems**.
+<h3 align="center">
+  Full-Stack Engineer • M.Tech CS • Ex–Tech Mahindra & Zemoso
+</h3>
 
- - Full Stack Developer<br>- Completed UI/UX design learning<br>- Currently focused on Power BI tools<br>- Exploring Android Application Development<br>- Learning and working with AI technologies<br>- Passionate about building innovative digital solutions<br><br>## Fun Fact<br>- I enjoy turning ideas into real-world apps and love exploring how AI can make everyday technology smarter.
+<p align="center">
+  Full-stack engineer building <b>production-grade applications</b>, scalable architectures, and clean UI/UX systems.
+</p>
+
+---
+
+### About Me
+
+<p>
+  <img src="https://img.icons8.com/ios-filled/20/e60000/code.png"/> Full Stack Developer<br>
+  <img src="https://img.icons8.com/ios-filled/20/e60000/design.png"/> UI/UX Design Learner<br>
+  <img src="https://img.icons8.com/ios-filled/20/e60000/combo-chart.png"/> Power BI Enthusiast<br>
+  <img src="https://img.icons8.com/ios-filled/20/e60000/android-os.png"/> Android App Development<br>
+  <img src="https://img.icons8.com/ios-filled/20/e60000/artificial-intelligence.png"/> AI Technologies<br>
+  <img src="https://img.icons8.com/ios-filled/20/e60000/idea.png"/> Innovative Digital Solutions
+</p>
+
+---
+
+### Fun Fact
+
+<p>
+  <img src="https://img.icons8.com/ios-filled/20/e60000/star.png"/> 
+  I enjoy turning ideas into real-world apps and exploring how AI can make everyday technology smarter.
+</p>
 <!-- <br><br>## Skills<br>- Full Stack Development<br>- UI/UX Design<br>- Power BI<br>- Android Development<br>- AI & Emerging Technologies<br><br>## Contact<br>- Email: bahrgavanaidujaddu@fmail.com<br>- LinkedIn: https://www.linkedin.com/in/bhargava-naidu-jaddu-b60a6b214/ -->
 
 
